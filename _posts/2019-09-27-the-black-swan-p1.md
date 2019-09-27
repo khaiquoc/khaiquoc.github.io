@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Thiên Nga Đen (The Black Swan) - Buổi 1"
+title: "Thiên Nga Đen - Buổi 1"
 author: "AN NAM Thư Quán"
 ---
 
-Mặc dù mới năm 2019 mới trôi qua được 2/3 những tôi có thể khẳng định "Thiên Nga Đen" chính là quyển sách tuyệt vời nhất mà tôi đã đọc trong năm nay. Một cuốn sách tuyệt vời về sự bất định, về những thứ không thể dự đoán trước. Vả "Thiên Nga Đen" cũng chính là quyển sách đầu tiên mà tôi sẽ tóm tắt tại AN NAM Thư Quán!
+Mặc dù mới năm 2019 mới trôi qua được 2/3 những tôi có thể khẳng định "Thiên Nga Đen" (The Black Swan) chính là quyển sách tuyệt vời nhất mà tôi đã đọc trong năm nay. Một cuốn sách tuyệt vời về sự bất định, về những thứ không thể dự đoán trước. Vả "Thiên Nga Đen" cũng chính là quyển sách đầu tiên mà tôi sẽ tóm tắt tại AN NAM Thư Quán!
 
 Hãy bắt đầu với buổi đầu tiên:
 
