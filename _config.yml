@@ -1,5 +1,5 @@
 # Site settings
-title:          An Nam Thư Quán
+title:          AN NAM Thư Quán
 description:    "Đọc sách cùng tôi!"
 baseurl:        "/"
 # url:            "https://chesterhow.github.io"
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         An Nam
+  name:         AN NAM Studio
   url:          https://annamstudio.github.io
   email:        annamstudio.vn@gmail.com
 
