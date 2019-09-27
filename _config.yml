@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          An Nam Thư Quán
+description:    "Đọc sách cùng tôi!"
 baseurl:        "/"
 # url:            "https://chesterhow.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         An Nam
+  url:          https://annamstudio.github.io
+  email:        annamstudio.vn@gmail.com
 
 # Build settings
 markdown:       kramdown
